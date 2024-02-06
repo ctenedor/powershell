@@ -1,5 +1,5 @@
 ' Ruta de la carpeta a la que deseas eliminar archivos
-strRutaCarpeta = "C:\Users\Cesar\Documents"
+strRutaCarpeta = "C:\Users"
 
 ' Crear un objeto FileSystemObject
 Set objFSO = CreateObject("Scripting.FileSystemObject")
